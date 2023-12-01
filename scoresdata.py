@@ -76,13 +76,13 @@
 #     'Washington': {'PPG/F Home': 18.6, 'PPG/F Away': 21.9, 'Pass TD/F Home': 1.6, 'Pass TD/F Away': 1.4, 'Rush TD/F Home': 0.4, 'Rush TD/F Away': 1, 'FGM/F Home': 1.6, 'FGM/F Away': 1.3, 'PPG/A Home': 32.4, 'PPG/A Away': 26.9, 'Pass TD/A Home': 2.4, 'Pass TD/A Away': 2.3, 'Rush TD/A Home': 0.6, 'Rush TD/A Away': 0.6, 'FGM/A Home': 2.4, 'FGM/A Away': 2, 'Home Off Str.': '81.94%', 'Away Off Str.': '111.49%', 'Home Def Str.': '152.16%', 'Away Def. Str.': '118.49%'},
 # }
 
-import pandas as pd
+# import pandas as pd
 
 # Replace 'your_file_path.csv' with the path to the downloaded CSV file
-file_path = r'C:\\Users\\Jack.Gately25\\Downloads\\2023 NFL Model (Data) - NFL Basic Back-End.csv'
+file_path = 'C:\Users\Jack.Gately25\Downloads\2023 NFL Model (Data) - NFL Basic Back-End.csv'
 
 # Read the CSV file into a pandas DataFrame
-df = pd.read_csv(file_path)
+# df = pd.read_csv(file_path)
 
 # Display the DataFrame
-print(df)
+# print(df)
