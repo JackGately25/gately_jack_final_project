@@ -35,9 +35,9 @@ command to run if program contains helper info
 
 ## Authors
 
-Jack Gately
-Roan Kher
-Matthew Suh
+Jack Gately '25
+Matthew Suh '24
+Roan Kher '24
 
 
 ## Version History
