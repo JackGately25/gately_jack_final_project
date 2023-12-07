@@ -1,10 +1,14 @@
 # Fall2023_final_project
 
-We are making a NFL Stat predictor program that displays past data of NFL teams. There is also a sports betting model that uses this data to accurately predict future games.
+Simple overview of use/purpose.
+
+Our group is working on building a user-friendly website that contains a predictive NFL sports betting model and up-to-date NFL stats.
 
 ## Description
 
 An in-depth paragraph about your project and overview of use.
+
+Roan, Jack, and I realized that we all shared an interest in the NFL and statistics. We wanted to combine our knowledge of the NFL and statistics to create a comprehensive website that displays a predictive NFL sports betting model as well as NFL player's statistics. Using Python, we are going to import NFL statistics such as points per game (PPG), rush yards per game, etc. to create a predictive NFL sports betting model. Our NFL sports betting model will compare its projections with NFL odds from sportsbooks to find value bets for our users. Additionally, we will have a page on our website that has real-life NFL statistics of each player to help users with player prop or fantasy lineup decisions.
 
 ## Getting Started
 
@@ -13,10 +17,14 @@ An in-depth paragraph about your project and overview of use.
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
 
+Windows 11, VS Code, Python, Pygame
+
 ### Installing
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
+
+GitHub Desktop, GitHub Website
 
 ### Executing program
 
@@ -26,18 +34,23 @@ An in-depth paragraph about your project and overview of use.
 code blocks for commands
 ```
 
+
+
 ## Help
 
 Any advise for common problems or issues.
 ```
 command to run if program contains helper info
 ```
+A
 
 ## Authors
 
-Jack Gately '25
-Matthew Suh '24
-Roan Kher '24
+Contributors names and contact info
+
+Jack Gately '25 []
+Matthew Suh '24 [@matthew_suh_] (https://twitter.com/matthewsuh)
+Roan Kher '24 []
 
 
 ## Version History
@@ -50,16 +63,10 @@ Roan Kher '24
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [ChatGPT] ()
+* [Chris Bradfield] - Kids Can Code
