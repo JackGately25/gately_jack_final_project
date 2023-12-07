@@ -8,7 +8,7 @@ Our group is working on building a user-friendly website that contains a predict
 
 An in-depth paragraph about your project and overview of use.
 
-Roan, Jack, and I realized that we all shared an interest in the NFL and statistics. We wanted to combine our knowledge of the NFL and statistics to create a comprehensive website that displays a predictive NFL sports betting model as well as NFL player's statistics. Using Python, we are going to import NFL statistics such as points per game (PPG), rush yards per game, etc. to create a predictive NFL sports betting model. Our NFL sports betting model will compare its projections with NFL odds from sportsbooks to find value bets for our users. Additionally, we will have a page on our website that has real-life NFL statistics of each player to help users with player prop or fantasy lineup decisions.
+Roan, Matthew, and I realized that we all shared an interest in the NFL and statistics. We wanted to combine our knowledge of the NFL and statistics to create a comprehensive website that displays a predictive NFL sports betting model as well as NFL player's statistics. Using Python, we are going to import NFL statistics such as points per game (PPG), rush yards per game, etc. to create a predictive NFL sports betting model. Our NFL sports betting model will compare its projections with NFL odds from sportsbooks to find value bets for our users. Additionally, we will have a page on our website that has real-life NFL statistics of each player to help users with player prop or fantasy lineup decisions.
 
 ## Getting Started
 
