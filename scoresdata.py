@@ -353,6 +353,16 @@ washington = {
     'FGM/A': 2.2
 }
 
+league_average = {
+    'PPG/F': 21.61,
+    'Pass TD/F': 1.34,
+    'Rush TD/F': 0.84,
+    'FGM/F': 1.74,
+    'PPG/A': 21.57,
+    'Pass TD/A': 1.35,
+    'Rush TD/A': 0.84,
+    'FGM/A': 1.74
+}
 
 
 
