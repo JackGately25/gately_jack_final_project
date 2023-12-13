@@ -135,6 +135,7 @@ def create_fantasy_boxes():
     for i, text in enumerate(box_texts):
         box = tk.Label(window, text=text, font=button_font, bg="light gray", width=15, height=2)
         box.place(x=50, y=200 + i * 50)  # Adjust the y-coordinate to position the boxes
+   
 
 
 def destroy_fantasy_boxes():
