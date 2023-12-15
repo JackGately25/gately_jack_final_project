@@ -1,7 +1,5 @@
-# # Team Data according to "2023 NFL Model (Data) - NFL Basic Back-End"
-
-
 arizona = {
+    'Team': 'Arizona',
     'PPG/F': 17.2,
     'Pass TD/F': 0.8,
     'Rush TD/F': 0.9,
@@ -13,6 +11,7 @@ arizona = {
 }
 
 atlanta = {
+    'Team': 'Atlanta',
     'PPG/F': 19.4,
     'Pass TD/F': 0.9,
     'Rush TD/F': 0.9,
@@ -24,6 +23,7 @@ atlanta = {
 }
 
 baltimore = {
+    'Team': 'Baltimore',
     'PPG/F': 27.0,
     'Pass TD/F': 1.2,
     'Rush TD/F': 1.8,
@@ -35,6 +35,7 @@ baltimore = {
 }
 
 buffalo = {
+    'Team': 'Buffalo',
     'PPG/F': 27.3,
     'Pass TD/F': 2.0,
     'Rush TD/F': 1.2,
@@ -46,6 +47,7 @@ buffalo = {
 }
 
 carolina = {
+    'Team': 'Carolina',
     'PPG/F': 15.7,
     'Pass TD/F': 1.0,
     'Rush TD/F': 0.3,
@@ -57,6 +59,7 @@ carolina = {
 }
 
 chicago = {
+    'Team': 'Chicago',
     'PPG/F': 20.2,
     'Pass TD/F': 1.3,
     'Rush TD/F': 0.8,
@@ -68,6 +71,7 @@ chicago = {
 }
 
 cincinnati = {
+    'Team': 'Cincinnati',
     'PPG/F': 19.3,
     'Pass TD/F': 1.5,
     'Rush TD/F': 0.4,
@@ -79,6 +83,7 @@ cincinnati = {
 }
 
 cleveland = {
+    'Team': 'Cleveland',
     'PPG/F': 21.7,
     'Pass TD/F': 0.8,
     'Rush TD/F': 1.0,
@@ -90,6 +95,7 @@ cleveland = {
 }
 
 dallas = {
+    'Team': 'Dallas',
     'PPG/F': 31.5,
     'Pass TD/F': 2.1,
     'Rush TD/F': 0.9,
@@ -101,6 +107,7 @@ dallas = {
 }
 
 denver = {
+    'Team': 'Denver',
     'PPG/F': 22.4,
     'Pass TD/F': 1.8,
     'Rush TD/F': 0.3,
@@ -112,6 +119,7 @@ denver = {
 }
 
 detroit = {
+    'Team': 'Detroit',
     'PPG/F': 26.7,
     'Pass TD/F': 1.6,
     'Rush TD/F': 1.5,
@@ -123,6 +131,7 @@ detroit = {
 }
 
 green_bay = {
+    'Team': 'Green Bay',
     'PPG/F': 21.0,
     'Pass TD/F': 1.7,
     'Rush TD/F': 0.5,
@@ -134,6 +143,7 @@ green_bay = {
 }
 
 houston = {
+    'Team': 'Houston',
     'PPG/F': 23.5,
     'Pass TD/F': 1.8,
     'Rush TD/F': 0.6,
@@ -145,6 +155,7 @@ houston = {
 }
 
 indianapolis = {
+    'Team': 'Indianapolis',
     'PPG/F': 24.5,
     'Pass TD/F': 1.0,
     'Rush TD/F': 1.5,
@@ -156,6 +167,7 @@ indianapolis = {
 }
 
 jacksonville = {
+    'Team': 'Jacksonville',
     'PPG/F': 23.1,
     'Pass TD/F': 1.1,
     'Rush TD/F': 1.1,
@@ -167,6 +179,7 @@ jacksonville = {
 }
 
 kansas_city = {
+    'Team': 'Kansas City',
     'PPG/F': 23.3,
     'Pass TD/F': 1.9,
     'Rush TD/F': 0.5,
@@ -178,6 +191,7 @@ kansas_city = {
 }
 
 la_chargers = {
+    'Team': 'LA Chargers',
     'PPG/F': 24.5,
     'Pass TD/F': 1.9,
     'Rush TD/F': 0.8,
@@ -189,6 +203,7 @@ la_chargers = {
 }
 
 la_rams = {
+    'Team': 'LA Rams',
     'PPG/F': 21.1,
     'Pass TD/F': 1.2,
     'Rush TD/F': 1.0,
@@ -200,6 +215,7 @@ la_rams = {
 }
 
 las_vegas = {
+    'Team': 'Las Vegas',
     'PPG/F': 16.8,
     'Pass TD/F': 0.9,
     'Rush TD/F': 0.7,
@@ -211,6 +227,7 @@ las_vegas = {
 }
 
 miami = {
+    'Team': 'Miami',
     'PPG/F': 30.8,
     'Pass TD/F': 2.1,
     'Rush TD/F': 1.7,
@@ -222,6 +239,7 @@ miami = {
 }
 
 minnesota = {
+    'Team': 'Minnesota',
     'PPG/F': 21.9,
     'Pass TD/F': 1.9,
     'Rush TD/F': 0.4,
@@ -233,6 +251,7 @@ minnesota = {
 }
 
 new_england = {
+    'Team': 'New England',
     'PPG/F': 13.5,
     'Pass TD/F': 0.9,
     'Rush TD/F': 0.5,
@@ -244,6 +263,7 @@ new_england = {
 }
 
 new_orleans = {
+    'Team': 'New Orleans',
     'PPG/F': 20.8,
     'Pass TD/F': 1.2,
     'Rush TD/F': 0.6,
@@ -255,6 +275,7 @@ new_orleans = {
 }
 
 ny_giants = {
+    'Team': 'NY Giants',
     'PPG/F': 13.3,
     'Pass TD/F': 0.9,
     'Rush TD/F': 0.3,
@@ -266,6 +287,7 @@ ny_giants = {
 }
 
 ny_jets = {
+    'Team': 'NY Jets',
     'PPG/F': 14.8,
     'Pass TD/F': 0.6,
     'Rush TD/F': 0.3,
@@ -277,6 +299,7 @@ ny_jets = {
 }
 
 philadelphia = {
+    'Team': 'Philadelphia',
     'PPG/F': 28.2,
     'Pass TD/F': 1.6,
     'Rush TD/F': 1.5,
@@ -288,6 +311,7 @@ philadelphia = {
 }
 
 pittsburgh = {
+    'Team': 'Pittsburgh',
     'PPG/F': 16.5,
     'Pass TD/F': 0.6,
     'Rush TD/F': 0.7,
@@ -299,6 +323,7 @@ pittsburgh = {
 }
 
 san_francisco = {
+    'Team': 'San Francisco',
     'PPG/F': 28.2,
     'Pass TD/F': 1.7,
     'Rush TD/F': 1.6,
@@ -310,6 +335,7 @@ san_francisco = {
 }
 
 seattle = {
+    'Team': 'Seattle',
     'PPG/F': 20.8,
     'Pass TD/F': 1.1,
     'Rush TD/F': 0.6,
@@ -321,6 +347,7 @@ seattle = {
 }
 
 tampa_bay = {
+    'Team': 'Tampa Bay',
     'PPG/F': 19.3,
     'Pass TD/F': 1.5,
     'Rush TD/F': 0.4,
@@ -332,6 +359,7 @@ tampa_bay = {
 }
 
 tennessee = {
+    'Team': 'Tennessee',
     'PPG/F': 16.8,
     'Pass TD/F': 0.8,
     'Rush TD/F': 0.7,
@@ -343,6 +371,7 @@ tennessee = {
 }
 
 washington = {
+    'Team': 'Washington',
     'PPG/F': 20.5,
     'Pass TD/F': 1.5,
     'Rush TD/F': 0.8,
@@ -352,18 +381,3 @@ washington = {
     'Rush TD/A': 0.6,
     'FGM/A': 2.2
 }
-
-league_average = {
-    'PPG/F': 21.61,
-    'Pass TD/F': 1.34,
-    'Rush TD/F': 0.84,
-    'FGM/F': 1.74,
-    'PPG/A': 21.57,
-    'Pass TD/A': 1.35,
-    'Rush TD/A': 0.84,
-    'FGM/A': 1.74
-}
-
-
-
-
