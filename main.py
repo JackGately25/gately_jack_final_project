@@ -1,5 +1,13 @@
 # This file was created by: Roan Kher, Matthew Suh, and Jack Gately
 # Sources: Chris Bradfield, reviewed and optimized by ChatGPT
+# Inspiration, code snippets, etc.
+# * [ChatGPT] (https://chat.openai.com/)
+# * [Chris Bradfield - KidsCanCode] (https://kidscancode.org/)
+# * [WageredOnTilt - YouTuber] (https://www.youtube.com/watch?v=Tuuc6QKchhU&t=417s)
+# * [Nick Wan - YouTuber] (https://www.youtube.com/watch?v=3IA0V9UuoPc)
+# * [W3Schools - Website] (https://www.w3schools.com/python/pandas/default.asp)
+# * [TeamRankings] (https://www.teamrankings.com/nfl/team-stats/)
+# * [Amol Kher] 
 
 
 # Title: 
